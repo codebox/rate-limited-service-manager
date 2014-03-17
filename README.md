@@ -1,4 +1,4 @@
-# Rate Limited Web Service Library
+## Rate Limited Web Service Library
 
 This library provides a simple method for managing JavaScript access to rate-limited web services. The library is open-source and available on GitHub.
 
