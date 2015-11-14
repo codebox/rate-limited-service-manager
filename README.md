@@ -1,6 +1,6 @@
 ## Rate Limited Web Service Library
 
-This library provides a simple method for managing JavaScript access to rate-limited web services. The library is open-source and available on GitHub.
+This library provides a simple method for managing JavaScript access to rate-limited web services. 
 
 Many web-based services enforce usage limits, restricting how many service requests can be performed within a given period of time (for example the Google Geocoding API permits [2,500 requests per 24 hour period](https://developers.google.com/maps/documentation/geocoding/#Limits) for non-paying customers). By using this library to manage access to such a service, you can ensure that whatever limits have been imposed by the provider are never exceeded.
 
